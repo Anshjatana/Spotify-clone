@@ -312,6 +312,9 @@ header {
 #card:hover {
   background-color: #212121e2;
 }
+.card.hovered button {
+  background-color: rgba(33, 33, 33, 0.88); 
+}
 #card:hover button {
   display: block;
   margin-bottom: 0.4rem;
